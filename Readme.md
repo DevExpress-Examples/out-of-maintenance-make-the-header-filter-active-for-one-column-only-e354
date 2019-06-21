@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # Make the header filter active for one column only
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e354/)**
+<!-- run online end -->
 
 
 <p>This example shows how to automatically clear previous column filter conditions.</p>
