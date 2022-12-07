@@ -10,7 +10,7 @@ using System.Web.UI.WebControls;
 using System.Web.UI.WebControls.WebParts;
 using System.Web.UI.HtmlControls;
 using System.Collections.Generic;
-using DevExpress.Web.ASPxGridView;
+using DevExpress.Web;
 #endregion
 
 public partial class Grid_Filter_OneColumnOnly_Default : System.Web.UI.Page {

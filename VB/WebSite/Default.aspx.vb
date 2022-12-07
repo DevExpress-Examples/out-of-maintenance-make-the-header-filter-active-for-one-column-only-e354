@@ -12,7 +12,7 @@ Imports System.Web.UI.WebControls
 Imports System.Web.UI.WebControls.WebParts
 Imports System.Web.UI.HtmlControls
 Imports System.Collections.Generic
-Imports DevExpress.Web.ASPxGridView
+Imports DevExpress.Web
 #End Region
 
 Partial Public Class Grid_Filter_OneColumnOnly_Default
